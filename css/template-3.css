@@ -129,7 +129,6 @@ header .container>ul>li>a::after {
 header .container>ul li:last-of-type .menu {
   color: var(--main-color);
   background-color: #fff;
-  padding: 5px;
   box-shadow: 0 0 10px #ddd;
   position: absolute;
   display: flex;
@@ -138,7 +137,6 @@ header .container>ul li:last-of-type .menu {
   width: 100%;
   border-bottom: 5px solid var(--main-color);
   align-items: center;
-  gap: 20px;
   display: none;
   transition: .5s;
 }
